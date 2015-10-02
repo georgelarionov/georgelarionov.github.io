@@ -5,8 +5,8 @@ body {
 h1 {
   font-family: "Arial", Helvetica, sans-serif;
   text-transform: capitalize;
-  font-size: larger;
-  text-shadow: -8px 8px 8px inherit;
+  font-size: 500%;
+  text-shadow: 8px 20px 8px inherit;
 }
 
 img {
