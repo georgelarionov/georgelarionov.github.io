@@ -1,0 +1,39 @@
+body {
+  background-color: green;
+}
+
+#header {
+  font-family: "Arial", Helvetica, sans-serif;
+  text-transform: capitalize;
+  font-size: 500%;
+  text-shadow: -8px 8px 8px blue;
+  padding: 5px;
+  background-color: 660066;
+}
+
+#nav {
+  line-height:30px;
+  background-color: #eeeeee;
+  height: 300px;
+  width:100px;
+  float:left;
+  padding:5px;
+}
+
+#main {
+  width:600px;
+  float:left;
+  padding:10px;
+}
+
+#footer {
+  background-color:black;
+  color:white;
+  text-align:center;
+  padding:5px;
+  clear:both;
+}
+
+img {
+  float: right;
+}
