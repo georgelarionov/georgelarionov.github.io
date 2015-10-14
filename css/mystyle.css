@@ -7,23 +7,23 @@
 
 .banner-img {
   padding:0;
-  max-width:2592px;
-  max-height:330px;
-
+  max-width:1100px;
+  max-height:25vh;
 }
 
 .adjustable {
   max-width:100%;
-  min-height:100%;
   /* img-size 2591*761 */
-}
-
-.brand {
-  color:green;
-  font-size:32px;
 }
 
 body {
   background-color: rgb(4,32,41);
   color: gray;
 }
+
+.navbar-brand {
+  color:black!important;
+  font-size:32px;
+  padding-right:10px;
+}
+
