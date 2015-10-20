@@ -16,6 +16,19 @@
   /* img-size 2591*761 */
 }
 
+.footer {
+  background-color: black;
+  color:red;
+  font-size:.5cm;
+  text-align: center;
+  vertical-align: middle;
+
+  position:fixed;
+  bottom:0;
+  width:100%;
+  height:.8cm;
+}
+
 body {
   background-color: rgb(4,32,41);
   color: gray;
@@ -27,14 +40,9 @@ body {
   padding-right:10px;
 }
 
-.footer {
-  background-color:black;
-  color:white;
-  text-align:center;
-
-  width:100%;
-  height:5cm;
-  position:fixed;
-  bottom:0;
+.active a{
+  background-color:grey!important;
+  color:black!important;
 }
+
 
