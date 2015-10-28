@@ -3,4 +3,10 @@ title: Hello World
 layout: default
 ---
 #Hello!
-You found me! Congratulations, and welcome to the coolest website you've ever seen (...I'm getting there). My name is George Larionov, and I am a junior computer science major, just screwing around using Jekyll and Github Pages, so please check back regularly, and unless I get swamped in homework I will do my best to make this site look awesome!
+
+My name is George Larionov, welcome my site!
+
+###About Me:
+I was born in Moscow, Russia, moving here at the ripe age of four years old. Currently, I am a junior at UMASS Amherst, studying Computer Science and having a lot of fun.
+
+I enjoy hiking, rock climbing, ice climbing, and playing rugby (I am on the UMASS club rugby team). I also enjoy learning new programming languages, API's, and generally hacking and learning new things.
