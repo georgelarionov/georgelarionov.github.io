@@ -49,6 +49,10 @@ body {
   color: gray;
 }
 
+/*.navbar.transparent.navbar-default {
+  background: rgba(0,0,0,0.4);
+}*/
+
 .navbar-brand {
   color:black!important;
   font-size:32px;
