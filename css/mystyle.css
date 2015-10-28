@@ -1,7 +1,6 @@
 /* banner image, topbar */
 .banner {
   padding:0;
-  display:flex;
   position:relative;
   justify-content:center;
   overflow: hidden;
@@ -54,17 +53,19 @@ div.navbar.transparent.navbar-default {
 
 /* sidebar */
 .sidebar {
-  padding:0;
-  padding-top: 20px;
-  display:flex;
+  overflow: hidden;
   justify-content:center;
-  /*overflow: hidden;*/
 }
 
 
 .adjustable-sidebar {
-  max-width:250px;
-  padding-right: 25px;
+  max-width:100%;
+  
+  padding-top:15px;
+  background-size: cover;
+  max-height: 40vh;
+  display: block;
+  margin:auto;
 }
 
 
