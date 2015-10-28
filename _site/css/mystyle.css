@@ -16,9 +16,24 @@
   /* img-size 2591*761 */
 }
 
+/* sidebar */
+.sidebar {
+  padding:0;
+  display:flex;
+  justify-content:center;
+  /*overflow: hidden;*/
+}
+
+
+.adjustable-sidebar {
+  max-width:250px;
+  padding-right: 25px;
+}
+
+
 .footer {
   background-color: black;
-  color:red;
+  color:gray;
   font-size:.5cm;
   text-align: center;
   vertical-align: middle;
