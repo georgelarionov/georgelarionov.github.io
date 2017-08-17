@@ -4,7 +4,7 @@ layout: default
 ---
 # Hello!
 
-My name is George Larionov, welcome to my site!!
+My name is George Larionov, welcome to my site!
 
 
 
